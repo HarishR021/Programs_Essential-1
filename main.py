@@ -251,5 +251,4 @@ def strange_list_fun(n):
     return strange_list
 print(strange_list_fun(5))
 
-
-print("Thank you!")
+print("Thank you for your time!")
