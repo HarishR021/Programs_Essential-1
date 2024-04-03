@@ -250,3 +250,6 @@ def strange_list_fun(n):
         strange_list.insert(0, i)
     return strange_list
 print(strange_list_fun(5))
+
+
+print("Thank you!")
