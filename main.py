@@ -1,5 +1,5 @@
 print("Hi, Hello! This is Harish, these are my Python Essential 1 - codes")
-print("Hello")
+
 
 #1 printing arrow
 print("    *")
